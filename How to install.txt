@@ -1,0 +1,5 @@
+pkg install python-pip
+git clone https://github.com/termuse/masked_url
+cd masked_url
+pip3 install - r requirements.txt
+python3 masked.py
