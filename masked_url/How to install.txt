@@ -1,0 +1,5 @@
+pkg install python-pip
+git clone 
+cd 
+pip3 install requirements.txt
+python3 
